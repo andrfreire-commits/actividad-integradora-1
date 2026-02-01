@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Pantalla Principal'),
+        title: const Text('Pantalla Principal actualizada'),
         backgroundColor: Colors.deepPurple,
       ),
       body: Center(
@@ -65,3 +65,4 @@ class HomePage extends StatelessWidget {
     );
   }
 }
+
